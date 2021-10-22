@@ -1,4 +1,7 @@
 body {
-    background-color: lightcoral;
+    background-color: rgb(21, 158, 221);
 }
 
+.jumbotron {
+    background-color: rgb(228, 255, 224);
+}
